@@ -1,2 +1,0 @@
-File with space contents
-test 
